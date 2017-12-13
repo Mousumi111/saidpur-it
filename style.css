@@ -971,6 +971,42 @@ textarea {
     margin-bottom: 40px;
     margin-top: 20px;
 }
+.class_blog_details_info{}
+.class_blog_details_info img{
+    width: 846px;
+    height: 500px;
+}
+.form_search{}
+.form_search form{
+
+}
+.post_form{
+    width: 200px;
+    height: 38px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-right: 5px;
+    padding: 10px;
+}
+.post_submit{
+    padding: 13px 8px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: white;
+    background: #1bb4b9;
+}
+.course_list_info{}
+.course_list_info ul{}
+.course_list_info ul li{}
+.course_list_info ul li a{}
+.recent_post{}
+.recent_post img{}
+.recent_post h3{}
+.recent_post p{}
+.recent_post i{}
+.recent_post h6{}
+.{}
+.{}
 .{}
 .{}
 .{}

@@ -1,0 +1,209 @@
+/*This is latest_post_details  page start*/
+.left_side_post_info{
+	
+}
+.left_side_post_info h2{}
+.stock_border{}
+.breadcrumps_bg2{
+	margin-top: 25px;
+}
+.new-breadcrums{
+	height: 20px;
+    width: 615px;
+    margin-bottom: 39px;
+	margin-top: -20px;
+}
+.new_color li a{}
+.new_link{}
+.new-breadcrums ol{
+	background: #f1f1f1;
+    margin-left: -31px;
+}
+.latest_post_image img :hover{
+	border:3px solid red
+	}
+.new-breadcrums li{}
+.new-breadcrums li a{}
+.new-breadcrums li span{    color: red;}
+.latest_post_image{}
+.latest_post_image img{
+	height: 251px;
+    width: 412px;
+    float: left;
+    margin-right: 24px;
+
+}
+.stock_new_design{}
+.stock_new_design h3{
+    margin: 14px 0 1em 0;
+    display: inline-block;
+    line-height: 1.2;
+    font-size: 9pt;
+    font-weight: 700;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    color: #535353;
+}
+.stock_new_design i{
+    font-size: 18px;
+    background: #cd2122;
+    width: 40px;
+    height: 38px;
+    padding: 10px 11px;
+    color: white;
+    border-radius: 100%;
+}
+.related1{
+	    font-size: 13px;
+    margin-left: 16px;
+    margin-top: 23px;
+}
+.latest_post_related a{    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    filter: alpha(opacity=100);
+    -moz-opacity: 1;
+    opacity: 1;
+    color: #cd2122;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+{}
+.latest_post_image a{
+	font-size: 20px;
+    color: #cd2122;
+}
+.latest_post_image p{
+    line-height: 38px;
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 50px;
+
+}
+.stock_border_one{
+    width: 63px;
+    background: rgba(128, 128, 128, 0.45);
+    height: 1px;
+    margin-top: -33px;
+    overflow: hidden;
+}
+.latest_post_related h3{}
+.latest_post_related h5{}
+.stock_border{
+	width: 63px;
+    height: 1px;
+    background: rgba(128, 128, 128, 0.41);
+    margin-top: 58px;
+}
+.latest_post_image h3{}
+.latest_post_image i{}
+.stock_border-new{}
+.latest_post_related{}
+.latest_post_related h4{}
+.latest_post_related{}
+.latest_post_related h5{
+	font-size: 14px;
+    line-height: 20px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    color: #535353;
+}
+.leave_a_reply{}
+.leave_a_reply h2{}
+.leave_a_reply h3{}
+.leave_a_reply h4{}
+.leave_a_reply form{}
+.leave_a_reply textarea{
+	width: 848px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    outline: none;
+    box-shadow: inset 1px 2px 0 rgba(0, 0, 0, 0.06);
+    border: 1px solid #D9D9D9;
+    line-height: 1.6;
+    height: 169px;
+	margin-bottom: 36px;
+}
+.leave_a_reply{}
+.leave_a_reply p{
+    float: left;
+    margin-right: 223px;
+
+}
+.new_text_latest{
+    width: 257px;
+    height: 38px;
+    display: block;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    float: left;
+    margin-right: 19px;
+    margin-bottom: 21px;
+}
+.latest_button{
+	    background-color: #cd2122;
+    color: white;
+    border: 1px;
+}
+.left_side_post_info_details{    margin-top: 184px;}
+.left_side_post_info_details h2{ 
+    margin-bottom: 52px;
+    color: #050505;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: normal; }
+.leave_a_reply{}
+.leave_a_reply h2{}
+.leave_a_reply h4{}
+.leave_a_reply input[type=checkbox]{}
+.leave_a_reply label{
+	    font-weight: bold;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #535353;
+	    margin-left: -10px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/*This is latest_post_details  page end*/
